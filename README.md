@@ -101,7 +101,7 @@ Illustrates structured workflow documentation and clear process visualization.
 **Technology:** Jupyter Notebook, Python, Excel dataset.  
 **Results:** Identified clear behavioral customer groups including Champions, Loyal Customers, Potential Loyalists, and Hibernating customers. Found that a strong portion of revenue comes from a relatively small group of high-frequency, high-spend recent buyers. Also revealed a large inactive segment with reactivation potential, enabling data-driven retention, win-back, and loyalty campaign strategies.
 
-## Certificates
+## Active Certifications
 
 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/AizhanIsmailova-1446/A7EFAAD85C7717C4?sharingId=D88745E6253A0181)  
 **Microsoft Certified: Azure Fundamentals (AZ-900)** [Verify](https://learn.microsoft.com/api/credentials/share/en-us/AizhanIsmailova-1446/D2C0D6015D2A1D53?sharingId=D88745E6253A0181)
@@ -109,9 +109,9 @@ Illustrates structured workflow documentation and clear process visualization.
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 
 So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
--[Full Business Analysis (21 IIBA® PDUs)](https://www.udemy.com/certificate/UC-8825b911-636b-489c-9201-bc0979acbfe3/) (Udemy)
+-[Full Business Analysis (21 IIBA® PDUs)](https://www.udemy.com/certificate/UC-8825b911-636b-489c-9201-bc0979acbfe3/) (Jan 2026) (Udemy)
 
--[Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/ede3b2f1-9e58-4282-a787-a3802d198084#acc.9EoqLahw) (Databricks) 
+-[Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/ede3b2f1-9e58-4282-a787-a3802d198084#acc.9EoqLahw) (Dec 2025) (Databricks) 
 
 -[Technical Writing](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (May 2022) (Udemy)
 

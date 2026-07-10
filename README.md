@@ -90,12 +90,6 @@ Highlights clarity in documenting workflows and aligning technical details with 
 **Results:** This analysis provides critical insights into credit card complaint patterns, helping companies identify key areas for improvement in customer service and complaint resolution.
  
 
-### AirBnb report [Study project] 
-**Dashboard:** [`dashboard`](https://public.tableau.com/app/profile/aizhan.ismailova/viz/AirBnBStudyProject/Dashboard1?publish=yes)   
-**Description:** Tableau dashboard consisted of: average price dynamics through the 2016, price per location, price per bedrooms.
-**Skills:**   designing an analytical dashboard, product delivery.    
-**Technology:** Tableau.    
-**Results:** created an analytical dashboard to analyze best choice in terms of time, location,  and apartmentto to start a business in AirBnb. 
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 

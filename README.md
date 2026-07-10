@@ -77,7 +77,7 @@ Highlights clarity in documenting workflows and aligning technical details with 
 
 ### Python Notebooks
 
-**Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/aizhanz1/blob/main/python%20notebooks/Data_Analysis_for%20_portfolio.ipynb)  
+**Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/Portfolio/blob/main/Air%20Quality%20EDA/Data_Analysis_for%20_portfolio%20(1).ipynb)
 **Description:** Demonstrates exploratory data analysis of air quality data across regions, countries worldwide, with interactive visualizations and insights.  
 **Skills:** Python, pandas, data visualization, exploratory analysis.  
 **Technology:** Jupyter Notebook, Google Colab, Python.  

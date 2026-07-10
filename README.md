@@ -69,19 +69,25 @@ In this section I will list data analytics projects briefly describing the techn
  
 ### Business Analytics
 
-## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
+###  Visitor Management System Requirements
+A business requirements and solution assessment document defining stakeholder needs, functional scope, and system specifications for a visitor management system.  
+**Business Requirements:** [`Business Requirements & Solution Assessment.docx`](https://github.com/aizhanz1/Portfolio/blob/main/Visitor%20Management%20System%20Requirements/Business%20Requirements%20%26%20Solution%20Assessment.docx)  
+**Presentation:** [`VMS_Presentation.pdf`](https://github.com/aizhanz1/Portfolio/blob/main/Visitor%20Management%20System%20Requirements/VMS_Presentation.pdf)
+
+### Technical writing
 Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
-
-### [1. Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
+### 1. Fintech Documentation Demo
 A mock API documentation and release notes for a financial analytics platform.  
-Demonstrates clear endpoint structure, authentication details, and release management best practices.
-
-### [2. Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+Demonstrates clear endpoint structure, authentication details, and release management best practices.  
+**Documentation:** [Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
+### 2. Functional Documentation
 A structured functional specification outlining system requirements, business logic, and user stories.  
-Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
-
-### 3. Process Map: [Requirement Gathering SOP – PDF](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
-
+Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.  
+**Documentation:** [Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+### 3. Process Map: Requirement Gathering SOP
+A step-by-step standard operating procedure mapping the requirement gathering process.  
+Illustrates structured workflow documentation and clear process visualization.  
+**Document:** [`SOP Requirement Gathering.pdf`](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
 ### Python Notebooks
 
 **Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/Portfolio/blob/main/Air%20Quality%20EDA/Data_Analysis_for%20_portfolio%20(1).ipynb)

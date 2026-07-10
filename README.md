@@ -61,12 +61,12 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:**  The outcome enables leadership to monitor project performance, funding utilization, researcher productivity, and research impact in a single analytical ecosystem.
 
 ### Credit Card Complains Analysis in the US
-**Dashboard:** [`dashboard`](https://public.tableau.com/views/CreditCardComplaintsAnalysis2/CREDITCARDCOMPLAINTSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
-**Business Requirements Document** [Business Requirements – DOCX]((https://github.com/aizhanz1/Portfolio/blob/main/University%20Data%20Analysis/University%20Data%20Business%20Requirements.docx))
-**Project Overview Document** [Project Description – DOCX][(https://github.com/aizhanz1/Portfolio/blob/main/Complains%20Analysis/Project%20description.docx)](https://github.com/aizhanz1/Portfolio/blob/main/University%20Data%20Analysis/University%20data%20project.docx)
-**Description:** This project focuses on analyzing credit card complaints data, offering insights into common issues, response times, and geographic distribution. By leveraging Tableau, the analysis provides a visual representation of complaint trends, helping stakeholders address customer pain points more effectively.
-**Skills:**   designing an analytical dashboard.    
-**Technology:** Tableau.    
+**Dashboard:** [dashboard](https://public.tableau.com/views/CreditCardComplaintsAnalysis2/CREDITCARDCOMPLAINTSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+**Business Requirements Document** [Business Requirements – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/University%20Data%20Analysis/University%20Data%20Business%20Requirements.docx)  
+**Project Overview Document** [Project Description – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/University%20Data%20Analysis/University%20data%20project.docx)  
+**Description:** This project focuses on analyzing credit card complaints data, offering insights into common issues, response times, and geographic distribution. By leveraging Tableau, the analysis provides a visual representation of complaint trends, helping stakeholders address customer pain points more effectively.  
+**Skills:** designing an analytical dashboard.  
+**Technology:** Tableau.  
 **Results:** This analysis provides critical insights into credit card complaint patterns, helping companies identify key areas for improvement in customer service and complaint resolution.
  
 ### Writing requirements

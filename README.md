@@ -44,8 +44,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Dashboard:** 
 
 **Description:** The dashboard provides two distinct user experiences — an executive view for strategic monitoring and an operational view for analyst-level investigation using mainly 3 datasets: alerts, vulnerabilities, and threats. 
-**Business Requirements Document** 
-**Project Overview Document**
+**Documentation:** [SOC Operations](https://github.com/aizhanz1/Portfolio/tree/main/SOC%20Operations)
 **Skills:**   designing an analytical dashboard for executive and operational view, product delivery.  
 **Technology:** Power BI.  
 **Results:** This dashboard addresses that consolidation need within Power BI, demonstrating end-to-end SOC analytics capability from raw JSON ingestion through to a finished, brand-aligned deliverable. 

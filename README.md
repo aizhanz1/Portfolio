@@ -39,15 +39,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
 
 ### Security Operations report
-**Power BI file:** 
-
-**Dashboard:** 
-
+**Power BI file:** [`dashboard.pbix`](https://github.com/aizhanz1/Portfolio/blob/main/SOC%20Operations/SOC_dashboard.pbix)  
+**Dashboard:** [`dashboard.pdf`](https://github.com/aizhanz1/Portfolio/blob/main/SOC%20Operations/SOC_dashboard.pdf)  
 **Description:** The dashboard provides two distinct user experiences — an executive view for strategic monitoring and an operational view for analyst-level investigation using mainly 3 datasets: alerts, vulnerabilities, and threats.  
-**Documentation:** [SOC Operations](https://github.com/aizhanz1/Portfolio/tree/main/SOC%20Operations)
-**Skills:**   designing an analytical dashboard for executive and operational view, product delivery.  
+**Documentation:** [SOC Operations](https://github.com/aizhanz1/Portfolio/tree/main/SOC%20Operations)  
+**Skills:** designing an analytical dashboard for executive and operational view, product delivery.  
 **Technology:** Power BI.  
-**Results:** This dashboard addresses that consolidation need within Power BI, demonstrating end-to-end SOC analytics capability from raw JSON ingestion through to a finished, brand-aligned deliverable. 
+**Results:** This dashboard addresses that consolidation need within Power BI, demonstrating end-to-end SOC analytics capability from raw JSON ingestion through to a finished, brand-aligned deliverable.
 
 ### Tableau projects
 

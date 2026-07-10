@@ -110,7 +110,8 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
 -[Full Business Analysis (21 IIBA® PDUs)](https://www.udemy.com/certificate/UC-8825b911-636b-489c-9201-bc0979acbfe3/) (Udemy)
--[Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/ede3b2f1-9e58-4282-a787-a3802d198084#acc.9EoqLahw) (Databricks)
+
+-[Academy Accreditation - Databricks Fundamentals](https://credentials.databricks.com/ede3b2f1-9e58-4282-a787-a3802d198084#acc.9EoqLahw) (Databricks) 
 
 -[Technical Writing](https://drive.google.com/drive/u/2/folders/1LA5WrxaViWgR14JmzgexRhnvUhR9NPbc) (May 2022) (Udemy)
 

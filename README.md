@@ -38,12 +38,23 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI.    
 **Results:** created an analytical dashboard to support daily activities of a supply chains involved in retail sales in the US.
 
+### Security Operations report
+**Power BI file:** 
+
+**Dashboard:** 
+
+**Description:** The dashboard provides two distinct user experiences — an executive view for strategic monitoring and an operational view for analyst-level investigation using mainly 3 datasets: alerts, vulnerabilities, and threats. 
+**Business Requirements Document** 
+**Project Overview Document**
+**Skills:**   designing an analytical dashboard for executive and operational view, product delivery.  
+**Technology:** Power BI.  
+**Results:** This dashboard addresses that consolidation need within Power BI, demonstrating end-to-end SOC analytics capability from raw JSON ingestion through to a finished, brand-aligned deliverable. 
+
 ### Tableau projects
 
 ### University Data Analysis
 **Dashboard:** [`dashboard`](https://public.tableau.com/views/Book1_17637174127230/ResearchPerformance?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 )
-
 **Business Requirements Document** [Business Requirements – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/Complains%20Analysis/Business%20Requirements.docx)
 **Project Overview Document** [Project Description – DOCX](https://github.com/aizhanz1/Portfolio/blob/main/Complains%20Analysis/Project%20description.docx)
 **Description:** The project covered the full analytics development lifecycle—from requirements understanding and gathering to data cleaning, data modeling, transformation logic, the creation of an analytics-ready schema, and developing Tableau dashboard. Using the provided datasets on research projects, staff profiles, patents, and publications, I built a dimensional model that supports cross-domain insights and enables centralized reporting across all research activities.

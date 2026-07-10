@@ -23,40 +23,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Writing requirements
-
-## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
-Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
-
-### [1. Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
-A mock API documentation and release notes for a financial analytics platform.  
-Demonstrates clear endpoint structure, authentication details, and release management best practices.
-
-### [2. Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
-A structured functional specification outlining system requirements, business logic, and user stories.  
-Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
-
-### 3. Process Map: [Requirement Gathering SOP – PDF](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
 
 
 
-### Python Notebooks
-
-**Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/aizhanz1/blob/main/python%20notebooks/Data_Analysis_for%20_portfolio.ipynb)  
-**Description:** Demonstrates exploratory data analysis of air quality data across regions, countries worldwide, with interactive visualizations and insights.  
-**Skills:** Python, pandas, data visualization, exploratory analysis.  
-**Technology:** Jupyter Notebook, Google Colab, Python.  
-**Results:** MENA (Eastern Mediterranean region) has the highest PM10 level. Strong positive correlation. Higher PM2.5 tends to be found with higher PM10. There is a statistically significant upward trend in PM2.5 over time (about 0.67 μg/m³ per year). However, year alone explains almost nothing about the changes in PM2.5 (R² = 0.008). Other factors (location, region, policies, etc.) likely drive the real variation.
-
-**Python Notebook:** [RFM Customer Segmentation – Online Retail](https://github.com/aizhanz1/Portfolio/blob/main/RFM%20Model/README.md)  
-**Description:** Demonstrates customer segmentation using RFM (Recency, Frequency, Monetary) analysis on transactional retail data to identify high-value, loyal, at-risk, and inactive customers for targeted marketing strategies.  
-**Skills:** Python, pandas, customer analytics, data cleaning, feature engineering, segmentation analysis.  
-**Technology:** Jupyter Notebook, Python, Excel dataset.  
-**Results:** Identified clear behavioral customer groups including Champions, Loyal Customers, Potential Loyalists, and Hibernating customers. Found that a strong portion of revenue comes from a relatively small group of high-frequency, high-spend recent buyers. Also revealed a large inactive segment with reactivation potential, enabling data-driven retention, win-back, and loyalty campaign strategies.
 
 ### Power BI projects
-
-
 
 
 ### Retail chain report [Study project for l-a-b-a school] 
@@ -89,7 +60,34 @@ Highlights clarity in documenting workflows and aligning technical details with 
 **Technology:** Tableau.    
 **Results:** This analysis provides critical insights into credit card complaint patterns, helping companies identify key areas for improvement in customer service and complaint resolution.
  
+### Writing requirements
 
+## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
+Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
+
+### [1. Fintech Documentation Demo](https://github.com/aizhanz1/software-writing-aizhan/wiki/Fintech-Documentation-Demo)
+A mock API documentation and release notes for a financial analytics platform.  
+Demonstrates clear endpoint structure, authentication details, and release management best practices.
+
+### [2. Functional Documentation](https://github.com/aizhanz1/software-writing-aizhan/wiki/Functional-Documentation)
+A structured functional specification outlining system requirements, business logic, and user stories.  
+Highlights clarity in documenting workflows and aligning technical details with stakeholder needs.
+
+### 3. Process Map: [Requirement Gathering SOP – PDF](https://github.com/aizhanz1/software-writing-aizhan/blob/main/SOP%20Requirement%20Gathering.pdf)
+
+### Python Notebooks
+
+**Python Notebook:** [EDA of Air Quality dataset by WHO (2010-2021)](https://github.com/aizhanz1/aizhanz1/blob/main/python%20notebooks/Data_Analysis_for%20_portfolio.ipynb)  
+**Description:** Demonstrates exploratory data analysis of air quality data across regions, countries worldwide, with interactive visualizations and insights.  
+**Skills:** Python, pandas, data visualization, exploratory analysis.  
+**Technology:** Jupyter Notebook, Google Colab, Python.  
+**Results:** MENA (Eastern Mediterranean region) has the highest PM10 level. Strong positive correlation. Higher PM2.5 tends to be found with higher PM10. There is a statistically significant upward trend in PM2.5 over time (about 0.67 μg/m³ per year). However, year alone explains almost nothing about the changes in PM2.5 (R² = 0.008). Other factors (location, region, policies, etc.) likely drive the real variation.
+
+**Python Notebook:** [RFM Customer Segmentation – Online Retail](https://github.com/aizhanz1/Portfolio/blob/main/RFM%20Model/README.md)  
+**Description:** Demonstrates customer segmentation using RFM (Recency, Frequency, Monetary) analysis on transactional retail data to identify high-value, loyal, at-risk, and inactive customers for targeted marketing strategies.  
+**Skills:** Python, pandas, customer analytics, data cleaning, feature engineering, segmentation analysis.  
+**Technology:** Jupyter Notebook, Python, Excel dataset.  
+**Results:** Identified clear behavioral customer groups including Champions, Loyal Customers, Potential Loyalists, and Hibernating customers. Found that a strong portion of revenue comes from a relatively small group of high-frequency, high-spend recent buyers. Also revealed a large inactive segment with reactivation potential, enabling data-driven retention, win-back, and loyalty campaign strategies.
 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. 

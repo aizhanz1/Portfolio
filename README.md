@@ -69,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Tableau.  
 **Results:** This analysis provides critical insights into credit card complaint patterns, helping companies identify key areas for improvement in customer service and complaint resolution.
  
-### Writing requirements
+### Business Analytics
 
 ## [📂 Technical writing](https://github.com/aizhanz1/software-writing-aizhan/tree/main)
 Explore the complete repository for additional samples, including API specs, user guides, and release documentation.

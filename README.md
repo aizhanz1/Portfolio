@@ -69,11 +69,10 @@ In this section I will list data analytics projects briefly describing the techn
  
 ### Business Analytics
 
-###  Visitor Management System Requirements
+### Visitor Management System Requirements
 A business requirements and solution assessment document defining stakeholder needs, functional scope, and system specifications for a visitor management system.  
-**Business Requirements:** [`Business Requirements & Solution Assessment.docx`](https://github.com/aizhanz1/Portfolio/blob/main/Visitor%20Management%20System%20Requirements/Business%20Requirements%20%26%20Solution%20Assessment.docx)  
+**Business Requirements:** [`BRD and solution assessment.pdf`](https://github.com/aizhanz1/Portfolio/blob/main/Visitor%20Management%20System%20Requirements/BRD%20and%20solution%20assesment.pdf)  
 **Presentation:** [`VMS_Presentation.pdf`](https://github.com/aizhanz1/Portfolio/blob/main/Visitor%20Management%20System%20Requirements/VMS_Presentation.pdf)
-
 ### Technical writing
 Explore the complete repository for additional samples, including API specs, user guides, and release documentation.
 ### 1. Fintech Documentation Demo
